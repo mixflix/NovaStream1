@@ -1,0 +1,4 @@
+-keep class androidx.media3.** { *; }
+-dontwarn androidx.media3.**
+-keep class com.google.firebase.** { *; }
+-keep class com.bumptech.glide.** { *; }

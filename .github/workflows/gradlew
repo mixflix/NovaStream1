@@ -1,0 +1,5 @@
+#!/bin/sh
+APP_BASE_NAME=${0##*/}
+DIRNAME=$(dirname "$0")
+[ -z "$JAVA_HOME" ] && JAVA_HOME=$(java -XshowSettings:properties -version 2>&1 > /dev/null | grep 'java.home' | awk '{print $3}')
+exec "$JAVA_HOME/bin/java" -jar "$DIRNAME/gradle/wrapper/gradle-wrapper.jar" "$@"

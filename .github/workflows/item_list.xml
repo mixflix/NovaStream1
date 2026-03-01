@@ -1,0 +1,4 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="horizontal" android:padding="10dp" android:layout_marginBottom="4dp" android:background="#2C2C2C">
+    <ImageView android:id="@+id/imgIcon" android:layout_width="50dp" android:layout_height="50dp" android:src="@mipmap/ic_launcher"/>
+    <TextView android:id="@+id/tvName" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_gravity="center_vertical" android:layout_marginStart="15dp" android:textColor="#FFFFFF" android:textSize="16sp" android:textStyle="bold" android:text="Name"/>
+</LinearLayout>

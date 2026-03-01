@@ -1,0 +1,5 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_tv" android:title="TV" android:icon="@android:drawable/ic_menu_slideshow"/>
+    <item android:id="@+id/nav_radio" android:title="Radio" android:icon="@android:drawable/ic_menu_rotate"/>
+    <item android:id="@+id/nav_exit" android:title="Exit" android:icon="@android:drawable/ic_menu_close_clear_cancel"/>
+</menu>

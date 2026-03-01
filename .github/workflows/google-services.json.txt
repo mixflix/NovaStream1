@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "91944842078",
+    "firebase_url": "https://tmstream-4d2d2-default-rtdb.firebaseio.com",
+    "project_id": "tmstream-4d2d2",
+    "storage_bucket": "tmstream-4d2d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91944842078:android:3f5cd75090a2b6b85955cf",
+        "android_client_info": {
+          "package_name": "com.nova.novastream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91944842078-o6tb3bafmebopqrsf77mkk8v1sk6hfic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCurvOcFKyHnbbYM7oeGXajOid1LWx3PTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91944842078-o6tb3bafmebopqrsf77mkk8v1sk6hfic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
